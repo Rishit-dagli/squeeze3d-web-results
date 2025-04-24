@@ -1,0 +1,7 @@
+Mesh Comparison Results
+======================
+
+Average metrics across all directories:
+  Average PSNR: 27.5007
+  Average MS-SSIM: 0.9796
+  Average LPIPS: 0.0274
